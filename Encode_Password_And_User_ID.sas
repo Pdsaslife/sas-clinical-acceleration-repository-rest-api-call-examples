@@ -20,7 +20,7 @@
 
 %mend;
 
-%encode_pw_and_user_id (pwfile=/nfsshare/sashls/home/schdac/CAR_Demo/pw.txt, 
-                        usrfile=/nfsshare/sashls/home/schdac/CAR_Demo/usr.txt, 
-                        userid=schdac, 
-                        pw=schdac);
+%encode_pw_and_user_id (pwfile=, 
+                        usrfile=, 
+                        userid=, 
+                        pw=);
